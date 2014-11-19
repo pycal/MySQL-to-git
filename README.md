@@ -1,9 +1,9 @@
 MySQL-to-git
 ============
 
-# Using cron, schedule automated MySQL database backups to git
+Using cron, schedule automated MySQL database backups to git
 
-## Instructions
+### Instructions
 
 1. Replace script tags (removing curly braces)
 2. Create a directory outside server webroot {/FULLY/QUALIFIED/PATH/TO/BACKUP/DIR/}
